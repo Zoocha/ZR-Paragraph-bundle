@@ -1,0 +1,10 @@
+uuid: 4bd9d4ba-0b7f-4952-a8f8-1f7d33170fa9
+langcode: en
+status: true
+dependencies: {  }
+id: embedded_view
+label: 'Embedded View'
+icon_uuid: null
+icon_default: null
+description: ''
+behavior_plugins: {  }

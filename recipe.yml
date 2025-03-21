@@ -1,0 +1,8 @@
+name: 'Zoocha Paragraph Bundle'
+description: 'Installs paragraphs and related modules'
+type: 'Feature'
+
+install:
+  - paragraphs
+config:
+  strict: false
