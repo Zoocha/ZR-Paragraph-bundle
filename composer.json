@@ -3,7 +3,8 @@
     "description": "ZR Paragraph Bundle",
     "type": "drupal-recipe",
     "require": {
-        "php": ">=8.1"
+        "php": ">=8.1",
+        "drupal/paragraphs":"^1.19"
     },
     "authors": [
         {
